@@ -1,0 +1,16 @@
+{
+  "name": "js-forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "main": "controller.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Berk Abay",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.1",
+    "parcel": "^2.9.1"
+  }
+}
