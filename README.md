@@ -33,11 +33,11 @@ Forkify Recipe App is a powerful and user-friendly web application that allows u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Andrew-Tsegaye/Forkify_Recipe_App.git
+   git clone https://github.com/BerkAbay/JS-Forkify
    ```
 2. Navigate to the project directory:
    ```bash
-     cd Forkify_Recipe_App
+     cd JS-Forkify
    ```
 3. Install the dependencies:
    ```bash
