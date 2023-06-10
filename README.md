@@ -98,6 +98,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact me at andrewtsegaye7@gmail.com.
-
 Feel free to customize and update the content based on your specific project details. Don't forget to include relevant images, icons, and the necessary license file (e.g. LICENSE)
